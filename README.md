@@ -3,7 +3,8 @@
 ###Installing this demo
 1. To try this out install node.js
 2. Download this repo and run NPM install to install the required dependencies
-3. run `npm start` browse to http://localhost:8000/app/
+3. This was written on a mac using visual studio code.
+4. run `npm start` browse to http://localhost:8000/app/
 
 ###About
 I took a small demo and expanded upon the layout and features and items. The initial demo helped me understand the factory and controller better and how this behavior was defined in the closure.
